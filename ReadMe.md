@@ -15,3 +15,6 @@ NS用にバスをちょこちょこ塗ってたら結構そろったのである
 エルガ(LV290)はきたきゅー氏のアドオンを改造させていただきました。その他車種もきたきゅー氏のアドオンに準じて作成しています。
 
 G_alumiが取りまとめて公開しているので、何かあればG_alumi(twitter:[@G_alumi](http://twitter.com/G_alumi))にご連絡くださいませ。
+
+![サムネVol.1](vol1/thumbnail_toei_1.1.png)
+![サムネVol.1](vol2/thumbnail.png)
