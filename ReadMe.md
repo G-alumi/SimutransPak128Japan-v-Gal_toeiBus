@@ -1,4 +1,4 @@
-# 都営バスセット Vol.1
+# 都営バスセット
 
 Simutrans pak128.Japan
 (Simutrans 123.0 and higher)
